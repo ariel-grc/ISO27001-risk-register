@@ -71,9 +71,9 @@ This register is intentionally integrated with the ISO 27001 Controls Matrix and
 ---
 
 ## 📂 Repository Contents
-- 📊 [Risk_Register_ISO27001.xlsx](./Compliance_Program_ISO27001_Controls_AssetRegister.xlsx): Contains the enterprise risk register with inherent and residual risk scoring, appetite thresholds, escalation logic, review tracking, and control mappings.  
+- 📊 [Risk_Register_ISO27001.xlsx](./Risk_Register.xlsx): Contains the enterprise risk register with inherent and residual risk scoring, appetite thresholds, escalation logic, review tracking, and control mappings.  
   
-- 📄 [Risk_Summary_Report.pdf](./Compliance_Program_Summary_ISO27001.pdf): One-page executive risk summary highlighting top enterprise risks, recommended actions, and governance next steps.  
+- 📄 [Risk_Summary_Report.pdf](./Risk_Summary_Report.pdf): One-page executive risk summary highlighting top enterprise risks, recommended actions, and governance next steps.  
   
 - 📝 `README.md` (this file)  
 
