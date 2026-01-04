@@ -4,7 +4,7 @@
 **Version:** 1.0 | **Status:** Completed  
 **Classification:** Public Portfolio  
 **Author:** Ariel Bethea / Compliance Officer  
-**Effective Date:** January 1, 2026   
+**Effective Date:** January 4, 2026   
 
 ---
 
