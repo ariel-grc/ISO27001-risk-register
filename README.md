@@ -62,11 +62,11 @@ This register is intentionally integrated with the ISO 27001 Controls Matrix and
 ---
 
 ## 📸 Visual Preview
-- [*Figure 1: Risk Register (Inherent and Residual Risk Scoring)*](./ISO27001_Controls_Screenshot.png)  
+- [*Figure 1: Risk Register (Inherent and Residual Risk Scoring)*](./ISO27001_Controls_Screenshot.png): Visual representation of the enterprise risk register capturing identified risks, calculated inherent and residual risk scores, assigned ownership, and mitigation status, supporting consistent risk tracking, governance oversight, and risk-informed decision-making aligned with organizational risk appetite.  
 
-- [*Figure 2: Risk Rating Heat Map & Appetite Logic*](./ISO27001_AssetRegister_Screenshot.png)
+- [*Figure 2: Risk Scoring Methodology and Heat Map*](./ISO27001_AssetRegister_Screenshot.png): Visual representation of the enterprise risk register capturing identified risks, calculated inherent and residual risk scores, assigned ownership, and mitigation status, supporting consistent risk tracking, governance oversight, and risk-informed decision-making aligned with organizational risk appetite.  
   
-- [*Figure 3: Risk Status & Escalation Framework*](./ISO27001_AssetRegister_Screenshot.png) 
+- [*Figure 3: Risk Rating, Appetite, and Escalation Logic*](./ISO27001_AssetRegister_Screenshot.png): Defined thresholds for risk acceptance, escalation, and management action, illustrating how residual risk levels are evaluated against organizational risk appetite to drive consistent governance decisions, accountability, and remediation workflows.  
 
 ---
 
